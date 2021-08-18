@@ -1,0 +1,13 @@
+
+:root{
+    --text-coler: white;
+}
+h1{
+    color: var(--text-coler);
+}
+h2{
+    color: var(--text-coler);
+}
+h3{
+    color: var(--text-coler);
+}
